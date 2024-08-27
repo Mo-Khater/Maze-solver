@@ -14,11 +14,12 @@ To get started with the Maze Solver, follow these steps:
    git clone https://github.com/Mo-Khater/Maze-solver.git
 2. **Install Dependencies**
 
-  This project requires Pillow for image processing. Install it using pip:
+     This project requires Pillow for image processing. Install it using pip:
   pip install Pillow
+  
 3. **Run the Application**
 
-  To start the application, run the main Python script:
+     To start the application, run the main Python script:
     python Maze_solver.py
 
 ## Follow These Steps in the Application
@@ -28,7 +29,7 @@ To get started with the Maze Solver, follow these steps:
 
 ## Default Maps
 
-The repository includes default maps that you can use for testing and solving.
+   The repository includes default maps that you can use for testing and solving.
 
 ## Usage
 
@@ -38,12 +39,8 @@ The repository includes default maps that you can use for testing and solving.
 
 ## Contributing
 
-Feel free to contribute to the project by submitting issues, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the MIT License.
+   Feel free to contribute to the project by submitting issues, feature requests, or pull requests.
 
 ## Contact
 
-For any questions or feedback, you can reach out to Mo-Khater.
+   For any questions or feedback, you can reach out to [mk0015264@gmail.com](mailto:mk0015264@gmail.com).
