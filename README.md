@@ -16,6 +16,7 @@ To get started with the Maze Solver, follow these steps:
 
   This project requires Pillow for image processing. Install it using pip:
   pip install Pillow
+  
 3. **Run the Application**
 
   To start the application, run the main Python script:
