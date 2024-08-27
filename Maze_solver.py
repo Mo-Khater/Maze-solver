@@ -9,6 +9,13 @@ Original file is located at
 
 import random
 from PIL import Image, ImageDraw
+import tkinter as tk
+from tkinter import filedialog, Canvas
+from PIL import Image, ImageDraw
+from queue import PriorityQueue, Queue
+from collections import deque
+import tkinter as tk
+from tkinter import filedialog, Canvas
 
 def parse_maze(filename):
     with open(filename, 'r') as file:
@@ -154,15 +161,6 @@ def genetic_algorithm(maze, start, end, pop_size=400, generations=100):
 #     maze_solution[step[0]][step[1]] = 'o'
 
 # maze_to_image(maze_solution, final_path)
-
-
-import tkinter as tk
-from tkinter import filedialog, Canvas
-from PIL import Image, ImageDraw
-from queue import PriorityQueue, Queue
-from collections import deque
-import tkinter as tk
-from tkinter import filedialog, Canvas
 
 class Node:
     def __init__(self, state, parent=None, action=None, g=0, heuristic=0):
