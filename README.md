@@ -41,10 +41,6 @@ The repository includes default maps that you can use for testing and solving.
 
 Feel free to contribute to the project by submitting issues, feature requests, or pull requests.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
-For any questions or feedback, you can reach out to Mo-Khater.
+For any questions or feedback, you can reach out to [mk0015264@gmail.com](mailto:mk0015264@gmail.com).
